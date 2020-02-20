@@ -64,5 +64,45 @@
     <ol>
         <li>Teoria: właściwości transition :heavy_check_mark: </li>
         <li><a href="Dzien4_1">Zadanie1: zmiana koloru tła i wyświetlenie tekstu po najechaniu na przycisk</a> :heavy_check_mark: </li>
-        
+        <li><a href="Dzien4_2">Zadanie2: Kwadrat zmieniający rozmiar i pozycję po najechaniu na przycisk</a> :heavy_check_mark: </li>
+        <li>Właściwości transform - wprowadzenie</li>
+        <li>Teoria: właściwości transform</li>
+        <li><a href="Dzien4_3">Zadanie 3: wyśrodkowanie elementu w innym elemencie</a> :heavy_check_mark: 
+        </li>
+        <li><a href="Dzien4_4">Zadanie4: linia z kwadratem przesuwająca się przy scrollowaniu w obrębie okna</a> :heavy_check_mark: 
+        </li>
+        <li><a href="Dzien4_5">Zadanie 5: domek pojawiający się pokliknięciu przycisku</a> :heavy_check_mark: 
+        </li>       
+</div>
+
+<div>
+<h3>Dzień 5 - transition i transform cz. 2 oraz wprowadzenie do jQuery</h3>
+    <ol>
+        <li><a href="Dzien5_1">Projekt 1: zegar w CSS ze wskazówką obracająca się po najechaniu na tarczę</a> :heavy_check_mark: 
+        </li> 
+        <li><a href="Dzien5_2">Projekt 2a: przycisk z animacją - podkreślenie po najechaniu (wersja ze spanem)</a> :heavy_check_mark: 
+        </li> 
+        <li><a href="Dzien5_3">Projekt 2b: przycisk z animacją - podkreślenie po najechaniu (wersja bez spana)</a> :heavy_check_mark: 
+        </li> 
+        <li><a href="Dzien5_4">Projekt 2c: przycisk z animacją - zmiana koloru wypełnienia i tekstu</a> :heavy_check_mark: 
+        </li> 
+        <li><a href="Dzien5_5">Zadanie 1: Przycisk z animacją dwuetapową</a> :heavy_check_mark: 
+        </li> 
+        <li><a href="Dzien5_6">Projekt 3: przycisk z trójkątem pojawiającym się po najechaniu</a> :heavy_check_mark: 
+        </li> 
+        <li><a href="Dzien5_7">Zadanie 2: zmiana rozmiaru tekstu i dodanie bordera po najechaniu na przycisk</a> :heavy_check_mark: 
+        </li>
+        <li><a href="Dzien5_8">Projekt 4: zmiana rozmiaru tekstu po kliknięciu przycisku z użyciem jQuery</a> :heavy_check_mark: 
+        </li>        
+</div>
+
+
+<div>
+<h3>Dzień 6 - wprowadzenie do właściwości animation</h3>
+    <ol>
+        <li><a href="Dzien6_1">Projekt 1: wschodzące i zachodzące słońce - animacja z użyciem klatek kluczowych</a> :heavy_check_mark: 
+        </li> 
+        <li><a href="Dzien6_2">Projekt 1: wschodzące i zachodzące słońce - animacja z użyciem klatek kluczowych</a> :heavy_check_mark: 
+        </li> 
+           
 </div>
