@@ -102,7 +102,39 @@
     <ol>
         <li><a href="Dzien6_1">Projekt 1: wschodzące i zachodzące słońce - animacja z użyciem klatek kluczowych</a> :heavy_check_mark: 
         </li> 
-        <li><a href="Dzien6_2">Projekt 1: wschodzące i zachodzące słońce - animacja z użyciem klatek kluczowych</a> :heavy_check_mark: 
+        <li><a href="Dzien6_2">Projekt 2: kwadrat zmieniający pozycję i kolor</a> :heavy_check_mark: 
         </li> 
-           
+        <li>Teoria i przykład: właściwości CSS animation :heavy_check_mark: </li>
+        <li><a href="Dzien6_3">Projekt 3: trzęsący się przycisk z użyciem animation</a> :heavy_check_mark: 
+        </li> 
+        <li><a href="Dzien6_4">Projekt 4: przycisk ze zmieniającym się tekstem z użyciem transition</a> :heavy_check_mark: 
+        </li> 
+        <li><a href="Dzien6_5">Zadanie 1: przycisk ze zmieniającym się tekstem - wjazd z boku</a> :heavy_check_mark: 
+        </li> 
+        <li><a href="Dzien6_6">Projekt 5: Napisy zmieniające się (przesuwające się) w obrębie sekcji</a> :heavy_check_mark: 
+        </li> 
+        <li><a href="Dzien6_7">Zadanie 2: Disco</a> :heavy_check_mark: 
+        </li>            
 </div>
+
+<div>
+<h3>Dzień 7 - projekty z użyciem animacji w CSS</h3>
+    <ol>
+        <li><a href="Dzien7_1">Projekt 1a: animowane 3 kropki z użyciem pseudoelementu</a> :heavy_check_mark: 
+        </li> 
+        <li><a href="Dzien7_2">Projekt 1b: animowane 3 kropki z użyciem spanów</a> :heavy_check_mark: 
+        </li> 
+        <li><a href="Dzien7_3">Zadanie 1: baner ze zmieniającymi się zdjęciami</a> :heavy_check_mark: 
+        </li> 
+        <li><a href="Dzien7_4">Projekt 2: baner ze zmieniającymi się zdjęciami i napisami</a> :heavy_check_mark: 
+        </li> 
+        <li><a href="Dzien7_5">Zadanie 2: symulacja gry typu Pong</a> :heavy_check_mark: 
+        </li> 
+        <li><a href="Dzien7_6">Projekt 3: chodząca postać</a> :heavy_check_mark: 
+        </li> 
+        <li><a href="Dzien7_7">Projekt 4: poruszający się dzwonek z dodatkowym efektem po najechaniu</a> :heavy_check_mark: 
+        </li> 
+        <li><a href="Dzien7_8">Zadanie 3: przycisk z przesuwającymi się strzałkami</a> :heavy_check_mark: 
+        </li>               
+</div>
+
