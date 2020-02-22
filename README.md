@@ -45,6 +45,7 @@
         <li>Funkcja calc w CSS :heavy_check_mark: </li>
         <li>Zmienne w CSS :heavy_check_mark: </li>
         <li><a href="/Dzien2_1">Projekt podsumowujący - header i nawigacja "przyklejone" do okna przeglądarki </a> :heavy_check_mark: </li>
+    </ol>
 </div>
 
 <div>
@@ -55,7 +56,7 @@
         <li><a href="Dzien3_3">Zadanie 2b: ostyluj mini-szachownicę z użyciem właściwości float</a> :heavy_check_mark: </li>
         <li><a href="Dzien3_4">Zadanie 2c: ostyluj mini-szachownicę z użyciem positon: absolute</a> :heavy_check_mark: </li>
         <li><a href="Dzien3_5">Projekt menu z ikonkami z użyciem Font Awesome i Media Queries</a> :heavy_check_mark: </li>
-        
+    </ol>   
 </div>
 
 
@@ -72,7 +73,8 @@
         <li><a href="Dzien4_4">Zadanie4: linia z kwadratem przesuwająca się przy scrollowaniu w obrębie okna</a> :heavy_check_mark: 
         </li>
         <li><a href="Dzien4_5">Zadanie 5: domek pojawiający się pokliknięciu przycisku</a> :heavy_check_mark: 
-        </li>       
+        </li>
+    </ol>       
 </div>
 
 <div>
@@ -93,7 +95,8 @@
         <li><a href="Dzien5_7">Zadanie 2: zmiana rozmiaru tekstu i dodanie bordera po najechaniu na przycisk</a> :heavy_check_mark: 
         </li>
         <li><a href="Dzien5_8">Projekt 4: zmiana rozmiaru tekstu po kliknięciu przycisku z użyciem jQuery</a> :heavy_check_mark: 
-        </li>        
+        </li>
+    </ol>        
 </div>
 
 
@@ -114,7 +117,8 @@
         <li><a href="Dzien6_6">Projekt 5: Napisy zmieniające się (przesuwające się) w obrębie sekcji</a> :heavy_check_mark: 
         </li> 
         <li><a href="Dzien6_7">Zadanie 2: Disco</a> :heavy_check_mark: 
-        </li>            
+        </li>
+    </ol>            
 </div>
 
 <div>
@@ -135,6 +139,18 @@
         <li><a href="Dzien7_7">Projekt 4: poruszający się dzwonek z dodatkowym efektem po najechaniu</a> :heavy_check_mark: 
         </li> 
         <li><a href="Dzien7_8">Zadanie 3: przycisk z przesuwającymi się strzałkami</a> :heavy_check_mark: 
-        </li>               
+        </li>
+    </ol>               
 </div>
 
+<div>
+<h3>Dzień 8 - wprowadzenie do Flexbox</h3>
+    <ol>
+        <li>Jak działa Flexbox na przykładzie kontenera zawierającego 3 elementy :heavy_check_mark: </li>
+        <li>Kluczowe właściwości Flexboxa w praktyce na kolejnych przykładach :heavy_check_mark: </li>
+        <li>Teoria: właściwości kontenera we Flexbox :heavy_check_mark: </li>
+        <li>Właściwości elementów elastycznych w praktyce :heavy_check_mark: </li>
+        <li>Model pudełkowy we Flexbox :heavy_check_mark: </li>
+        <li>Teoria: właściwości elementów elastycznych we Flexbox :heavy_check_mark: </li>
+    </ol>                   
+</div>
