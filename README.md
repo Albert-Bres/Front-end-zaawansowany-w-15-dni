@@ -154,3 +154,17 @@
         <li>Teoria: właściwości elementów elastycznych we Flexbox :heavy_check_mark: </li>
     </ol>                   
 </div>
+
+<div>
+<h3>Dzień 9 - Flexbox, wprowadzenie do CSS Grid i responsywność</h3>
+    <ol>
+        <li><a href="Dzien9_1">Projekt 1: layout kalkulatora z użyciem Flexboxa</a> :heavy_check_mark: 
+        </li>
+        <li><a href="Dzien9_2">Zadanie 1: layout kalkulatora z odstępami między przyciskami</a> :heavy_check_mark: 
+        </li>
+        <li>Tworzenie stron responsywnych przy pomocy media queries - przypomnienie :heavy_check_mark: </li>
+        <li>Galeria z użyciem Flexboxa i media queries :heavy_check_mark: </li>
+        <li><a href="Dzien9_3">Projekt 2: proste menu responsywne z użyciem Flexboxa</a> :heavy_check_mark: 
+        </li>
+    </ol>                   
+</div>
