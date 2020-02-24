@@ -166,5 +166,24 @@
         <li>Galeria z użyciem Flexboxa i media queries :heavy_check_mark: </li>
         <li><a href="Dzien9_3">Projekt 2: proste menu responsywne z użyciem Flexboxa</a> :heavy_check_mark: 
         </li>
+        <li><a href="Dzien9_4">Projekt 3a: layout z użyciem Flexboxa</a> :heavy_check_mark: 
+        </li>
+        <li><a href="Dzien9_5">Projekt 3b: layout responsywny z użyciem Flexboxa i media queries</a> :heavy_check_mark: 
+        </li>
+        <li><a href="Dzien9_6">Projekt 4: layout strony z użyciem Grida</a> :heavy_check_mark: 
+        </li>
+        <li><a href="Dzien9_7">Zadanie 2: Cennik z użyciem Flexa</a> :heavy_check_mark: 
+        </li>
+    </ol>                   
+</div>
+
+<div>
+<h3>Dzień 10 - JavaScript w zakresie tworzenia stron internetowych</h3>
+    <ol>
+        <li>Wprowadzenie do nauki JavaScript w zakresie front-endu i nie tylko :heavy_check_mark: 
+        </li>
+        <li>Tworzenie zmiennych w JS i wykrywanie błędów przy pomocy konsoli w przeglądarce :heavy_check_mark: </li>
+        <li>Typy zmiennych w JavaScript :heavy_check_mark: </li>
+        <li>JavaScript - Eventy i akcje (funkcje) :heavy_check_mark: </li>
     </ol>                   
 </div>
