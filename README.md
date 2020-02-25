@@ -187,3 +187,29 @@
         <li>JavaScript - Eventy i akcje (funkcje) :heavy_check_mark: </li>
     </ol>                   
 </div>
+
+<div>
+<h3>Dzień 11 - projekty z użyciem JavaScript</h3>
+    <ol>
+        <li>Praca z JavaScript na stronie internetowej :heavy_check_mark: 
+        </li>
+        <li><a href="Dzien11_1">Projekt 1: zmiana rozmiaru fontu po kliknięciu przycisku</a> :heavy_check_mark: 
+        </li>
+        <li><a href="Dzien11_2">Projekt 2: zmiana koloru po kliknięciu diva</a> :heavy_check_mark: 
+        </li>
+        <li><a href="Dzien11_3">Zadanie 1: kwadrat obracający się przy klikaniu przycisku</a> :heavy_check_mark: 
+        </li>
+        <li>Projekt 3: dodawanie kwadratu przez kliknięcie przycisku :heavy_check_mark: 
+        </li>
+    </ol>                   
+</div>
+
+<div>
+<h3>Dzień 12 - wprowadzenie do jQuery</h3>
+    <ol>
+        <li><a href="Dzien12_1">Projekt: dodawanie kwadratu przyciskiem zaprogramowanym przy pomocy jQuery</a> :heavy_check_mark: 
+        </li>
+        <li>Teoria: podstawy jQuery :heavy_check_mark: 
+        </li>
+    </ol>                   
+</div>

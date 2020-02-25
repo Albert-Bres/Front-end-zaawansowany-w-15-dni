@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Powiększ</title>
+    <style>
+        button {
+            padding: 10px;
+            font-size: 50px;
+            font-family: sans-serif;
+            background-color: transparent;
+            border: 2px solid black;
+        }
+
+        .square {
+            width: 100px;
+            height: 100px;
+            background-color: #000;
+            position: fixed;
+            top: calc(50% - 50px);
+            left: calc(50% - 50px);
+            transition: 0.5s;
+        }
+    </style>
+</head>
+
+<body>
+    <button>Obróc</button>
+    <div class="square"></div>
+
+    <script>
+        let rotateStart = 0;
+        const rotateChange = 15;
+
+        const btn = document.querySelector('button');
+        const turn = document.querySelector('.square');
+
+        btn.addEventListener('click', function () {
+            rotateStart = rotateStart + rotateChange;
+            turn.style.transform = "rotate(" + rotateStart + "deg)";
+        })
+
+    </script>
+</body>
+
+</html>
