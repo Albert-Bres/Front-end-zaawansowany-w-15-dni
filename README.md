@@ -211,5 +211,26 @@
         </li>
         <li>Teoria: podstawy jQuery :heavy_check_mark: 
         </li>
+        <li>jQuery w praktyce - omówienie na kodzie :heavy_check_mark: </li>
+        <li>Teoria: jQuery - metody i właściwości do pracy z DOM :heavy_check_mark: 
+        </li>
+        <li><a href="Dzien12_2">Projekt 2: zmiana tła i właściwości tekstu po kliknięciu odpowiedniego przycisku</a> :heavy_check_mark: 
+        </li>
+    </ol>                   
+</div>
+
+<div>
+<h3>Dzień 13 - menu hamburger na kilka sposobów</h3>
+    <ol>
+        <li><a href="Dzien13_1">Projekt 1a: menu pojawiające się z boku po najechaniu na przycisk</a> :heavy_check_mark: 
+        </li>
+        <li><a href="Dzien13_2">Projekt 1b: menu wysuwające się po kliknięciu przycisku</a> :heavy_check_mark: 
+        </li>
+        <li><a href="Dzien13_3">Projekt 1c: ikona menu hamburger</a> :heavy_check_mark: 
+        </li>
+        <li><a href="Dzien13_4">Projekt 1d: menu hamburger w jQuery</a> :heavy_check_mark: 
+        </li>
+        <li><a href="Dzien13_5">Projekt 1e: integracja menu z przykładową stroną</a> :heavy_check_mark: 
+        </li>
     </ol>                   
 </div>
