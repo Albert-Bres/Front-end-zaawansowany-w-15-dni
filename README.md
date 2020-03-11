@@ -232,5 +232,59 @@
         </li>
         <li><a href="Dzien13_5">Projekt 1e: integracja menu z przykładową stroną</a> :heavy_check_mark: 
         </li>
+        <li><a href="Dzien13_6">Projekt 2: menu hamburger wysuwające się z góry wykonane przy pomocy jQuery</a> :heavy_check_mark: 
+        </li>
+        <li><a href="Dzien13_7">Zadanie 1: menu typu hamburger na dole strony wykonane w JavaScript</a> :heavy_check_mark: 
+        </li>
+    </ol>                   
+</div>
+
+<div>
+<h3>Dzień 14 - popup (modal), efekty przy przewijaniu i inne projekty</h3>
+    <ol>
+        <li><a href="Dzien14_1">Projekt 1: pop-up (modal) z użyciem jQuery</a> :heavy_check_mark: 
+        </li>
+        <li><a href="Dzien14_2">Projekt 2: menu w jQuery przewijające stronę do odpowiedniej sekcji z animacją</a> :heavy_check_mark: 
+        </li>
+        <li><a href="Dzien14_3">Projekt 3: pasek pojawiający się przy skrolowaniu i wyświetlający pozycję skrola</a> :heavy_check_mark: 
+        </li>
+        <li><a href="Dzien14_4">Projekt 4a: pasek informujący, która sekcja jest wyświetlana - z użyciem jQuery</a> :heavy_check_mark: 
+        </li>
+        <li><a href="Dzien14_5">Projekt 4b: pasek informujący, która sekcja jest wyświetlana - w JavaScript</a> :heavy_check_mark: 
+        </li>
+        <li>Projekt 5a: pojawianie się elementów na stronie przy skrolowaniu - wprowadzenie :heavy_check_mark: 
+        </li>
+        <li><a href="Dzien14_6">Projekt 5b: pojawianie się elementów na stronie przy skrolowaniu z animacją w JQ</a> :heavy_check_mark: 
+        </li>
+    </ol>                   
+</div>
+
+<div>
+<h3>Dzień 15 - Slider (banner) i galeria z wykorzystaniem m.in.: JS, jQ i Flexboxa</h3>
+    <ol>
+        <li>Projekt 1a: slider (baner) z animacją - HTML i CSS :heavy_check_mark: 
+        </li>
+        <li><a href="Dzien15_1">Projekt 1b: slider (baner) z animacją - JavaScript</a> :heavy_check_mark: 
+        </li>
+        <li>Projekt 2a: galeria z pop-upem wyskakującym po kliknięciu - HTML i CSS :heavy_check_mark: 
+        </li>
+        <li><a href="Dzien15_2">Projekt 2b: galeria z pop-upem wyskakującym po kliknięciu - biblioteka Lightbox</a> :heavy_check_mark: 
+        </li>
+    </ol>                   
+</div>
+
+<div>
+<h3>Dzień bonusowy - Wprowadzenie do Sass</h3>
+    <ol>
+        <li>Teoria: wstęp do Sass - użycie, składnie SASS i SCSS, najważniejsze elementy :heavy_check_mark: 
+        </li>
+        <li>Konfiguracja Visual Studio Code do pracy z Sass-em :heavy_check_mark: 
+        </li>
+        <li>Sass w praktyce - import plików, zmienne, domieszki, składnia SASS i SCSS :heavy_check_mark: 
+        </li>
+        <li><a href="Dzien16_1">Zadanie 1a: menu w składni SASS</a> :heavy_check_mark: 
+        </li>
+        <li><a href="Dzien16_2">Zadanie 1b: menu w składni SCSS</a> :heavy_check_mark: 
+        </li>
     </ol>                   
 </div>
